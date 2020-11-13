@@ -10,6 +10,10 @@
         "provides" : {
             "Evo::GA::Population" : "lib/Evo/GA/Population.pm6",
             "Evo::GA::Amino-acid" : "lib/Evo/GA/Amino-acid.pm6",
+            "Evo::GA::Individual" : "lib/Evo/GA/Individual.pm6",
+            "Evo::GA::VonBaerIndividual" : "lib/Evo/GA/VonBaerIndividual.pm6",
+            "Evo::GA::VonBaerNKIndividual" : "lib/Evo/GA/VonBaerNKIndividual.pm6",
+            "Evo::GA::VonBaerNKdIndividual" : "lib/Evo/GA/VonBaerNKdIndividual.pm6",
             "Evo::GA::Codon" : "lib/Evo/GA/Codon.pm6",
             "Evo::GA::Genome" : "lib/Evo/GA/Genome.pm6",
             "Evo::GA::Genome01" : "lib/Evo/GA/Genome01.pm6",
