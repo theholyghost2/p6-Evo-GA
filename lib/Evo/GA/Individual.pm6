@@ -1,7 +1,6 @@
 use v6.c;
 
-### This can be an individual as an embryo, such as VonBaer (NK/NKd) or 
-### a procreating system 
+### This can be an individual as an embryo or developed individual
 
 class Evo::GA::Indidivual
 {
