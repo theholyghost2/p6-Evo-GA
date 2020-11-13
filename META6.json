@@ -11,6 +11,7 @@
             "Evo::GA::Population" : "lib/Evo/GA/Population.pm6",
             "Evo::GA::Amino-acid" : "lib/Evo/GA/Amino-acid.pm6",
             "Evo::GA::Individual" : "lib/Evo/GA/Individual.pm6",
+            "Evo::GA::EmbryonicIndividual" : "lib/Evo/GA/EmbryonicIndividual.pm6",
             "Evo::GA::VonBaerIndividual" : "lib/Evo/GA/VonBaerIndividual.pm6",
             "Evo::GA::VonBaerNKIndividual" : "lib/Evo/GA/VonBaerNKIndividual.pm6",
             "Evo::GA::VonBaerNKdIndividual" : "lib/Evo/GA/VonBaerNKdIndividual.pm6",
