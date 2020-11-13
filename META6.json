@@ -8,7 +8,13 @@
         "authors" : [ "The Holy Ghost" ],
         "license" : "General Public License 3, Artistic-2.0",
         "provides" : {
-            "Evo::GA::Population" : "lib/Evo/GA/Population.pm6"
+            "Evo::GA::Population" : "lib/Evo/GA/Population.pm6",
+            "Evo::GA::Amino-acid" : "lib/Evo/GA/Amino-acid.pm6",
+            "Evo::GA::Codon" : "lib/Evo/GA/Codon.pm6",
+            "Evo::GA::Genome" : "lib/Evo/GA/Genome.pm6",
+            "Evo::GA::Genome01" : "lib/Evo/GA/Genome01.pm6",
+            "Evo::GA::Genome-11" : "lib/Evo/GA/Genome-11.pm6",
+            "Evo::GA::Genome-allele" : "lib/Evo/GA/Genome-allele.pm6"
         },
         "depends" : [ ],
         "build-depends" : [ ],
